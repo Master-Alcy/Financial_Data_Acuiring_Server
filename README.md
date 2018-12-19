@@ -4,6 +4,8 @@ My single person program. Enchanting my understanding in multiple Java areas inc
 
 ## Some Instructions
 
+Original repository at <https://github.com/Master-Alcy/StevensCodes/tree/master/Java-2018/501/CS-501-Final-Project>
+
 ### Compile and run
 
 Put all .java files in src/ and all .jar files in lib/ together in same folder.
